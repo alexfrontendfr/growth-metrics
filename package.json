@@ -1,9 +1,10 @@
 {
   "name": "growth-metrics",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build && cd ../backend && bundle install",
+    "postinstall": "cd frontend && npm install tailwindcss postcss autoprefixer"
+  },
   "engines": {
     "node": "18.x"
-  },
-  "scripts": {
-    "build": "cd frontend && npm install && npm run build && cd ../backend && bundle install"
   }
 }
