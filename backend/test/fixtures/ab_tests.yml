@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  variant_a: MyString
+  variant_b: MyString
+  start_date: 2024-10-05 01:29:05
+  end_date: 2024-10-05 01:29:05
+
+two:
+  name: MyString
+  variant_a: MyString
+  variant_b: MyString
+  start_date: 2024-10-05 01:29:05
+  end_date: 2024-10-05 01:29:05

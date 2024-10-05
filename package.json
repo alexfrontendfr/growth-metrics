@@ -1,0 +1,9 @@
+{
+  "name": "growth-metrics",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build && cd ../backend && bundle install"
+  }
+}
