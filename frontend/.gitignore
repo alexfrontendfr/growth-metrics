@@ -34,3 +34,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#tailwind
+tailwind.config.js
+postcss.config.js
+
